@@ -5,8 +5,8 @@
 
  body{
     font-family: 'Playfair Display', serif;
-    /* background-color: rgb(70, 40, 13); */
-   background: linear-gradient(135deg, #8d877f, #503206, #744808);
+    background-color: rgb(70, 40, 13);
+   /* background: linear-gradient(135deg, #8d877f, #503206, #744808); */
     margin: 30px 80px;
     height: 100vh;
     display: flex;
